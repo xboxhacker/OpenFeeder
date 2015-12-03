@@ -28,6 +28,7 @@ Laser Cut Parts:
 * exitGuide (two parts)
 * tapePresser
 * tapeAdvanceArm
+
 (These parts can be 3D printed)
 
 3D Printed Parts:
@@ -36,7 +37,7 @@ Laser Cut Parts:
 
 Other Parts:
 * tapeSprocket
-(This part is tricky… should be cut from stainless steel. But can be 3D printed)
+(This part is trickyâ€¦ should be cut from stainless steel. But can be 3D printed)
 
 Hardware Parts:
 * 626Z-FB (Flange Bearing 6x6x19) - 2pcs

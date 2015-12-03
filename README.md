@@ -3,7 +3,7 @@ OpenSource feeder for DIY and OpenPNP community!
 
 **Simple laser cut acrylic body, with 99% off the shelf hardware.** 
 
-This feeder design is for MY machine. Extensive modifications to existing machines may be necessary to accommodate it. Its ment to fit a 20mm aluminum t-slot. I am useing t-slots from MakerSlide. 
+This feeder design is for MY machine. Extensive modifications to existing machines may be necessary to accommodate it. Its meant to fit a 20mm aluminum t-slot. I am using t-slots from MakerSlide. 
 
 Feel free to edit the source file. You must post edited files for all the use.
 

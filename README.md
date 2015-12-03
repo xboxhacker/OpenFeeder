@@ -1,9 +1,11 @@
-# OpenFeeder
+﻿# OpenFeeder
 OpenSource feeder for DIY and OpenPNP community!
 
 
 
-This feeder design is for MY machine. Extensive modifications existing machines may be necessary to accommodate it. Feel free to edit the source file. You must post edited files for all the use.
+This feeder design is for MY machine. Extensive modifications to existing machines may be necessary to accommodate it. Its ment to fit a 20mm aluminum t-slot. I am useing t-slots from MakerSlide. 
+
+Feel free to edit the source file. You must post edited files for all the use.
 
 
 
@@ -37,13 +39,13 @@ Advanced Operation:
 
 (This part can be CNC milled)
 
-__Other Parts:__
+**Other Parts**
 * tapeSprocket
 
 (This part is tricky… should be cut from stainless steel. But can be 3D printed)
 
 
-__Hardware Parts:__
+**Hardware Parts:**
 * 626Z-FB (Flange Bearing 6x6x19) - 2pcs
 * EWC0608 (Hex One Way Bearing 6x8x10)  - 1pcs
 * 8mm Tall Brass Standoff (M3 Thread) - 3pcs
@@ -55,6 +57,22 @@ __Hardware Parts:__
 * M6 Nuts  -  1pcs
 * M6 Washers  -  2-6pcs
 * Small Extension Springs or Rubber Bands
+
+**Tools:**
+
+* M3 Tap 
+
+* Metric Allen Key Set
+
+* Grinder
+
+
+# Assembly:
+
+
+
+# WARNING:
+This is my very first ever 3D Cad design. So these might be some errors in the source. I am to be held harmless for any problems any errors or omissions may cause. All sources are provided "AS-IS".
 
 
 

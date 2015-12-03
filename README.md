@@ -1,15 +1,20 @@
 ﻿# OpenFeeder
 OpenSource feeder for DIY and OpenPNP community!
 
-
+**Simple laser cut acrylic body, with 99% off teh shelf hardware.** 
 
 This feeder design is for MY machine. Extensive modifications to existing machines may be necessary to accommodate it. Its ment to fit a 20mm aluminum t-slot. I am useing t-slots from MakerSlide. 
 
 Feel free to edit the source file. You must post edited files for all the use.
 
+OpenFeeder discussion can be found in the [OpenPNP google group](https://groups.google.com/forum/#!forum/openpnp).
 
+OpenFeeder was made with SketchUp 2013. Each part is on its own labeled layer.
+
+Current source: OpenFeederRev7.skp
 
 # OVERVIEW:
+
 Basic Operation: 
 * tapeAdvanceArm is pressed down, tape is advanced. The more the arm is pressed, the more the tape is advanced (vise versa).
 * Tape plastic cover is pulled backward with a small fishing weight.
@@ -21,6 +26,12 @@ Advanced Operation:
 * As tapeAdvanceArm is pressed, the one way bearing is locked in rotation, thus turning the tapeSprocket. Once the tapeAdvanceArm is released, the one way bearing un-locks and allows the arm to return to the ready position. 
 
 
+# File List:
+
+* openfeederRev7.skp - Sketchup file of the entire feeder
+* tapeSprocket_FULL.skp  - Drive sprocket w/ back spacer
+* tapeSprocket_Backer.skp  - Sprocket back spacer ONLY
+* tapeGuide.stl  - 3D printable tapeGuide part
 
 
 # BOM:
@@ -69,10 +80,12 @@ Advanced Operation:
 
 # Assembly:
 
+More soon.... check the photos for more info.
 
 
 # WARNING:
-This is my very first ever 3D Cad design. So these might be some errors in the source. I am to be held harmless for any problems any errors or omissions may cause. All sources are provided "AS-IS".
+
+This is my very first ever 3D Cad design. So these might be some errors in the source. I am to be held harmless for any problems any errors or omissions may cause. All sources are provided "AS-IS", and without warranty.
 
 
 

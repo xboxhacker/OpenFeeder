@@ -16,6 +16,7 @@ Basic Operation:
 Advanced Operation: 
 * Both the tapeGuide and the exitGuide are adjustable for paper tapes heights and embossed tapes heights. See examples in photos folder.
 * Wider tapes can be used by changing the tapeGuide width and the 8mm brass standoff height.
+* As tapeAdvanceArm is pressed, the one way bearing is locked in rotation, thus turning the tapeSprocket. Once the tapeAdvanceArm is released, the one way bearing un-locks and allows the arm to return to the ready position. 
 
 
 
@@ -43,7 +44,7 @@ __Other Parts:__
 
 __Hardware Parts:__
 * 626Z-FB (Flange Bearing 6x6x19) - 2pcs
-* EWC0608 (Hex Oneway Bearing)  - 1pcs
+* EWC0608 (Hex One Way Bearing 6x8x10)  - 1pcs
 * 8mm Tall Brass Standoff (M3 Thread) - 3pcs
 * M3 x 8mm Cap Screw - 7pcs
 * M3 x 16mm Cap Screw - 2pcs
@@ -53,6 +54,9 @@ __Hardware Parts:__
 * M6 Nuts  -  1pcs
 * M6 Washers  -  2-6pcs
 * Small Extension Springs or Rubber Bands
+
+
+
 
 
 

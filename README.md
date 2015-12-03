@@ -39,8 +39,12 @@ __3D Printed Parts:__
 
 __Other Parts:__
 * tapeSprocket
+<<<<<<< HEAD
 
 (This part is tricky… should be cut from stainless steel. But can be 3D printed)
+=======
+(This part is trickyâ€¦ should be cut from stainless steel. But can be 3D printed)
+>>>>>>> b345c8586f9eee77bb367cfe62ea5aea9a281cbf
 
 __Hardware Parts:__
 * 626Z-FB (Flange Bearing 6x6x19) - 2pcs

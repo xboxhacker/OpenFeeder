@@ -1,5 +1,5 @@
 ﻿# OpenFeeder
-OpenSource feeder for DIY and OpenPNP community!
+OpenSource mechanical feeder design for DIY and OpenPNP community!
 
 **Simple laser cut acrylic body, with 99% off the shelf hardware.** 
 

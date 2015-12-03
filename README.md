@@ -42,6 +42,7 @@ Advanced Operation:
 * exitGuide (two parts)
 * tapePresser
 * tapeAdvanceArm
+* washer
 
 (These parts can be 3D printed)
 
@@ -68,6 +69,7 @@ Advanced Operation:
 * M6 Nuts  -  1pcs
 * M6 Washers  -  2-6pcs
 * Small Extension Springs or Rubber Bands
+* M5 t-slot nut
 
 **Tools:**
 

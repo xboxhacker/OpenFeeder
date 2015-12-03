@@ -22,23 +22,26 @@ Advanced Operation:
 
 # BOM:
 
-Laser Cut Parts:
+__Laser Cut Parts:__
 * bodyLeft
 * bodyRight
 * exitGuide (two parts)
 * tapePresser
 * tapeAdvanceArm
+
 (These parts can be 3D printed)
 
-3D Printed Parts:
+__3D Printed Parts:__
 * tapeGuide
+
 (This part can be CNC milled)
 
-Other Parts:
+__Other Parts:__
 * tapeSprocket
+
 (This part is tricky… should be cut from stainless steel. But can be 3D printed)
 
-Hardware Parts:
+__Hardware Parts:__
 * 626Z-FB (Flange Bearing 6x6x19) - 2pcs
 * EWC0608 (Hex Oneway Bearing)  - 1pcs
 * 8mm Tall Brass Standoff (M3 Thread) - 3pcs

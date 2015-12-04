@@ -1,8 +1,6 @@
 ﻿# OpenFeeder
 OpenSource mechanical feeder design for DIY and OpenPNP community!
 
-**Simple laser cut acrylic body, with 99% off the shelf hardware.** 
-
 This feeder design is for MY machine. Extensive modifications to existing machines may be necessary to accommodate it. Its meant to fit a 20mm aluminum t-slot. I am using t-slots from MakerSlide. 
 
 Feel free to edit the source file. You must post edited files for all the use.
@@ -11,9 +9,21 @@ OpenFeeder discussion can be found in the [OpenPNP google group](https://groups.
 
 OpenFeeder was made with SketchUp 2013. Each part is on its own labeled layer.
 
-Current source: OpenFeederRev7.skp
+Current source version: OpenFeederRev7.skp
+
 
 # OVERVIEW:
+
+Key Features:
+* Simply made form .250″ acrylic sheet on a laser cutter (3d printable too).
+* Easily accessed and cheap components for the drive system.
+* Easily changed over to different size tapes, 8mm 10mm 12mm etc.
+* Adjustable tape height, from paper resistor tape to tape with electrolytic caps.
+* Designed to work with 20mm T-slot.
+* “Almost” infinite feeding distance. Able to feed tape form .05mm at a time to 5mm at a time.
+* Very smooth feeding, even at a very high speed.
+* Most likely over engineered!
+
 
 Basic Operation: 
 * tapeAdvanceArm is pressed down, tape is advanced. The more the arm is pressed, the more the tape is advanced (vise versa).
@@ -81,6 +91,11 @@ Advanced Operation:
 
 
 # Assembly:
+
+Threading:
+* Check photos folder for thread_chart.jpg for threading info.
+* Lubrication is needed to thread acrylic. Simply use a drop of dish soap in some water. DO NOT USE PETROLEUM BASED LUBE!! It will end up cracking the acrylic.
+
 
 More soon.... check the photos for more info.
 

@@ -20,7 +20,7 @@ Key Features:
 * Easily changed over to different size tapes, 8mm 10mm 12mm etc.
 * Adjustable tape height, from paper resistor tape to tape with electrolytic caps.
 * Designed to work with 20mm T-slot.
-* “Almost” infinite feeding distance. Able to feed tape form .05mm at a time to 5mm at a time.
+* “Almost” infinite feeding distance. Able to feed tape form .05mm at a time to 12mm at a time.
 * Very smooth feeding, even at a very high speed.
 * Most likely over engineered!
 
